@@ -15,7 +15,7 @@ public class MergeArray {
             interger1[i] = scanner.nextInt();
         }
 
-        System.out.println("Nhập vào giá trị cho mạng thứ nhất: ");
+        System.out.println("Nhập vào giá trị cho mạng thứ hai: ");
         for(int i = 0; i < interger1.length; i++) {
             System.out.print("interger2["+i+"]= ");
             interger2[i] = scanner.nextInt();
