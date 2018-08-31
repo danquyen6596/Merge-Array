@@ -29,7 +29,7 @@ public class MergeArray {
 
 //Gán phẩn tử mảng 2 cho mảng 3
         int j = 0;
-        for (int i = interger2.length; i < interger3.length; i++){
+        for (int i = interger1.length; i < interger3.length; i++){
             interger3[i] = interger2[j];
             j++;
         }
